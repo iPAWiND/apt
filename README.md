@@ -1,2 +1,2 @@
-# apt
-APT
+# APT Repository
+apt.ipawind.com
