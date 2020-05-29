@@ -5,4 +5,8 @@ Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: iPAWiND Repository
+Description: The Most Powerful CodeSign Utility
+
+SHA256:
+ 36df29f9cd7b61002fcf74337153564de7353115a95ccc560687f90cdf3bde5d 599 Packages.bz2
+ 659fa5d3532fe1a4cb1246163bbbe658752aa8ca13c5ec49778e8bded21139bb 592 Packages.xz
